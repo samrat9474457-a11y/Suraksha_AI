@@ -1,4 +1,4 @@
-# Suraksha_Ai
+# Suraksha_AI_WomenSafety_Project
 
 Suraksha_Ai is a Python-based project developed and executed entirely using **Google Colab**. The project is implemented in a Jupyter Notebook format and focuses on working with a safety-related dataset using basic machine learning and data analysis techniques.
 
